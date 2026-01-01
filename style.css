@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f4f6f8;
+}
+
+header {
+    background: #2c3e50;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+.section {
+    padding: 30px;
+}
+
+.course-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+}
+
+.course-card {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.progress-bar {
+    width: 300px;
+    height: 20px;
+    background: #ddd;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.progress-fill {
+    height: 100%;
+    background: #27ae60;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+
+iframe {
+    width: 100%;
+    max-width: 600px;
+    height: 315px;
+    margin-bottom: 20px;
+}
+
+.certificate {
+    background: white;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px;
+}
+.home-intro {
+    text-align: center;
+}
+
+.note-box {
+    background: #fff8dc;
+    border-left: 6px solid #f39c12;
+    border-radius: 8px;
+}
+
+.note-box h3 {
+    margin-bottom: 10px;
+}
+
+.about-course ul {
+    margin-left: 20px;
+}
+
+.home-video iframe {
+    width: 100%;
+    max-width: 600px;
+    height: 315px;
+    border-radius: 10px;
+    display: block;
+    margin: 15px auto;
+}
+.video-page h2 {
+    margin-top: 30px;
+    color: #2c3e50;
+}
+
+.video-page h4 {
+    margin: 15px 0 5px;
+}
+
+.video-page iframe {
+    width: 100%;
+    max-width: 700px;
+    height: 380px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
