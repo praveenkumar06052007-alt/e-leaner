@@ -28,3 +28,4 @@ In conclusion, the E-Learning Platform UI project demonstrates the practical imp
 
 #OUTPUT
 
+<img width="1893" height="924" alt="Image" src="https://github.com/user-attachments/assets/ce0c6422-1e23-4319-865b-acf84f3d3481" />
