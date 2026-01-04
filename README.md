@@ -10,7 +10,7 @@
 
 "DURATION:" 4 WEEKS "
 
-MENTOR:" NEELA SANTHOSH KUMAR
+MENTOR:" NEELA SANTHOSH KUMAR "
 
 The E-Learning Platform UI project is a modern, user-friendly front-end application designed to provide an interactive and accessible digital learning experience. This project focuses on creating a visually appealing and responsive user interface that allows learners to browse courses, track learning progress, and access educational video content efficiently. The main objective of this platform is to simulate a real-world online learning environment similar to popular platforms such as Coursera, Udemy, or Google Classroom, while emphasizing clean design and intuitive navigation.
 
