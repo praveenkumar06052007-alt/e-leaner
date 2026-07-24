@@ -1,17 +1,5 @@
 #E-LEARNING PLATFORM UI
 
-"COMPANY": CODTECH IT SOLUTIONS
-
-"NAME": Praveen kumar K
-
-"INTERN ID": CT04DR3023
-
-"DOMAIN": FRONT END WEB DEVELOMENT
-
-"DURATION:" 4 WEEKS "
-
-MENTOR:" NEELA SANTHOSH KUMAR "
-
 The E-Learning Platform UI project is a modern, user-friendly front-end application designed to provide an interactive and accessible digital learning experience. This project focuses on creating a visually appealing and responsive user interface that allows learners to browse courses, track learning progress, and access educational video content efficiently. The main objective of this platform is to simulate a real-world online learning environment similar to popular platforms such as Coursera, Udemy, or Google Classroom, while emphasizing clean design and intuitive navigation.
 
 The platform is developed using front-end web technologies such as HTML, CSS, and JavaScript, along with a modern front-end framework like React.js or Vue.js. The use of component-based architecture ensures reusability, maintainability, and scalability of the UI. Each section of the application is designed as an independent component, such as the course listing page, course details page, progress tracker, and video player section. This structure makes the application easy to extend with additional features in the future.
